@@ -5,11 +5,12 @@ vue 可以在前端页面直接引用，也可以用 webpack 直接打包，对�
 
 vue 官方提供了 vue-cli 来生成应用程序骨架。这个命令行有四种使用方式
 
-
--  browserify - A full-featured Browserify + vueify setup with hot-reload, linting & unit testing.
--  browserify-simple - A simple Browserify + vueify setup for quick prototyping.
--  webpack - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.
--  webpack-simple - A simple Webpack + vue-loader setup for quick prototyping.
+|     |     |
+| ----- | ----- |
+|browserify |A full-featured Browserify + vueify setup with hot-reload, linting & unit testing.|
+|browserify-simple |A simple Browserify + vueify setup for quick prototyping.|
+|webpack |A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction.|
+|webpack-simple |A simple Webpack + vue-loader setup for quick prototyping.|
 
 另外两种
 
@@ -32,6 +33,7 @@ npm run dev
 [http://localhost:8080](http://localhost:8080)
 
 
+|     |     |
 | ----- | ----- |
 |[vue-loader 文档](https://vuejs.github.io/vue-loader/)| |
 |[sublime 的 vue 语法高亮插件](https://github.com/vuejs/vue-syntax-highlight)| |
