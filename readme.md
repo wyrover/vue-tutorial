@@ -31,9 +31,15 @@ npm run dev
 ```
 [http://localhost:8080](http://localhost:8080)
 
--  [vue-loader 文档](https://vuejs.github.io/vue-loader/)
--  [sublime 的 vue 语法高亮插件](https://github.com/vuejs/vue-syntax-highlight)
--  [vue-hackernews](https://github.com/vuejs/vue-hackernews)
+
+| ----- | ----- |
+|[vue-loader 文档](https://vuejs.github.io/vue-loader/)| |
+|[sublime 的 vue 语法高亮插件](https://github.com/vuejs/vue-syntax-highlight)| |
+|[vue-hackernews](https://github.com/vuejs/vue-hackernews)| |
+|[vue-base](https://github.com/szarapka/vue-base)| |
+|[vue-desktop-starter](https://github.com/ElemeFE/vue-desktop-starter)| |
+|[vue-desktop](https://github.com/ElemeFE/vue-desktop)     | |
+|[v-datepicker](https://github.com/ElemeFE/v-datepicker)   |日期组件|
 
 
 ## 使用 SASS 的组件模板
